@@ -225,3 +225,12 @@ _Pvt_Extensions
 
 # FAKE - F# Make
 .fake/
+/src/SwissTransport/bin
+/src/SwissTransport/obj/Debug
+/src/SwissTransport/obj/Release
+/SSV-Application/bin
+/SSV-Application/obj/Debug
+/SSV-Application/obj/Release
+/tests/SwissTransportTest/bin/Debug
+/tests/SwissTransportTest/obj/Debug
+/tests/SwissTransportTest/obj/Release

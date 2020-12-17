@@ -568,7 +568,7 @@
     <value>9</value>
   </data>
   <data name="gbNeueVerbindung.Location" type="System.Drawing.Point, System.Drawing">
-    <value>33, 159</value>
+    <value>19, 60</value>
   </data>
   <data name="gbNeueVerbindung.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>3, 2, 3, 2</value>
@@ -742,7 +742,7 @@
     <value>0</value>
   </data>
   <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>35, 674</value>
+    <value>19, 579</value>
   </data>
   <data name="groupBox2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
@@ -772,7 +772,7 @@
     <value>2</value>
   </data>
   <data name="dgvAuflisten.Location" type="System.Drawing.Point, System.Drawing">
-    <value>31, 338</value>
+    <value>17, 239</value>
   </data>
   <data name="dgvAuflisten.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
@@ -886,7 +886,7 @@
     <value>2</value>
   </data>
   <data name="groupBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>763, 674</value>
+    <value>747, 579</value>
   </data>
   <data name="groupBox3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 4, 4, 4</value>
